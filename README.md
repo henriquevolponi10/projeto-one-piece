@@ -16,5 +16,13 @@
 ## Sobre:
 Nessa pagina tem os ícones dos personagens da serie one piece. Ao clicar em certo ícone a pagina atualiza e mostra a foto e as informações desse personagem.
 
+## Contribuições
+Contribuições são bem-vindas! Se você deseja melhorar a pagina ou adicionar novos recursos, siga estas etapas:
+1. Fork o repositório.
+2. Crie uma nova branch para sua contribuição: `git checkout -b minha-contribuicao`.
+3. Faça as alterações desejadas e commit-as: `git commit -m 'Adicionei um novo recurso'`.
+4. Envie suas alterações: `git push origin minha-contribuicao`.
+5. Abra uma solicitação pull para revisão.
+
 #### Qualquer sujestão e sempre bem vinda! 
 Email: limavolponihenrique@gmail.com
